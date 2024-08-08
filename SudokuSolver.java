@@ -10,6 +10,7 @@ public class SudokuSolver {
 
 	public static void main(String[] args) {
 
+		//Tablero en su estado inicial, cambiar para probar otro sudoku.
 		int[][] board = { 
 				{ 5, 0, 0, 8, 2, 0, 0, 4, 0 }, 
 				{ 0, 7, 0, 0, 0, 6, 3, 0, 0 }, 
